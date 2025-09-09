@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# FullStack_Class
+This repository contains coursework, projects, and practice exercises for Full Stack Development. It covers frontend (HTML, CSS, JavaScript, React), backend (Node.js, Express.js), databases (MongoDB/SQL), and key concepts like authentication, RESTful APIs, and deployment for building complete web applications.
+>>>>>>> b23aa134ae360489bb4bce5515c1fe9eba187cfa
